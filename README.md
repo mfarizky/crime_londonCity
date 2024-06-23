@@ -52,14 +52,13 @@ To use this project, follow these steps:
 - **Exploratory Data Analysis (EDA):** Statistical analysis and visualization of crime trends and patterns.
 - **Time Series Analysis:** Analyzing crime trends over time.
 - **Geospatial Analysis:** Mapping crime data to visualize geographical distribution.
-- **Crime Prediction:** Basic predictive modeling to forecast crime rates.
 
 ## Visualization
 The project includes several visualizations to help understand the crime data, such as:
 - Crime trends over the years.
 - Distribution of crime types.
 - Heatmaps of crime incidents by borough.
-- Time series plots of crime rates.]
+- Time series plots of crime rates.
 
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or issues, feel free to open an issue or submit a pull request.
