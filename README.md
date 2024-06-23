@@ -73,3 +73,6 @@ Contributions are welcome! If you have any ideas, suggestions, or issues, feel f
 ## Acknowledgements
 - The [London Crime dataset](https://www.kaggle.com/datasets/jboysen/london-crime) provided by Kaggle.
 - Inspiration and guidance from various data science and machine learning communities.
+---
+
+Feel free to customize the above template according to your specific project details and preferences.
